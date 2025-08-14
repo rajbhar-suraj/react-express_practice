@@ -67,7 +67,8 @@ const SignIn = () => {
                 }
                 <button
                     className='bg-gray-500 rounded-md px-3 py-2 mt-3'
-                    type='Submit' onClick={signinHandler}>Register</button>
+                    type='Submit' onClick={signinHandler}>Login
+                </button>
             </div>
         </div>
     )
